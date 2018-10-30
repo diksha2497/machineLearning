@@ -1,6 +1,6 @@
 # Machine Learning
 
-<b>LIKE KINDA SUPER IMPORTANT NOTE</b>: Hi! Q here. Your most likely reading this and really excited about building your own AI. I was too in 2011 when I had a dream of building an AI to solve all of humanitie's problems. My most up to date research in artificial general intelligence(AGI) can be found in my other github repo [wAlnut](https://github.com/WalnutiQ/wAlnut). 
+<b>LIKE KINDA SUPER IMPORTANT NOTE</b>:Hi! Q here. Your most likely reading this and really excited about building your own AI. I was too in 2011 when I had a dream of building an AI to solve all of humanitie's problems. My most up to date research in artificial general intelligence(AGI) can be found in my other github repo [wAlnut](https://github.com/WalnutiQ/wAlnut). 
 
 ## Why
 The majority of the material here was created while taking Andrew Ng's free online 
@@ -9,7 +9,7 @@ The majority of the material here was created while taking Andrew Ng's free onli
 *"A computer program is said to learn from experience E with respect to some task 
 T and some performance measure P, if its performance on T, as measured by P, improves with experience E."*
 
-~ Definition of Machine Learning by Tom Mitchell
+~~ Definition of Machine Learning by Tom Mitchell
 
 ## How 
 1. Install [Octave free here](https://db.tt/J97Im052) or [Matlab not free here](http://www.mathworks.com/products/matlab/). Note that Octave = Matlab without the nice graphical user interface. I use Octave so don't feel like you are missing anything if you don't have money for Matlab.
